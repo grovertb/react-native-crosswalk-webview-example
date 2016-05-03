@@ -36,6 +36,4 @@ npm-debug.log
 # BUCK
 buck-out/
 \.buckd/
-android/app/libs
-!android/app/libs/xwalk_core_library-17.46.448.10.aar
 android/keystores/debug.keystore
